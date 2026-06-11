@@ -5,7 +5,7 @@ Game Title: BUILD & GUIDE
 Engine:
 Godot 4.6
 
-GitHub Link : https://github.com/dipalivadhri2007-del/BuildandGuide
+GitHub Link : https://github.com/dipalivadhri2007-del/buildandGuide1
 
 Itch.io Link
 https://dipalivadhri2007-del.itch.io/buildandguide
